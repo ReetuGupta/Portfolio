@@ -1001,8 +1001,11 @@
                 </div>
 
                 <!-- form -->
-                <form name="contact" netlify method="POST"
+                <form name="contact" data-netlify="true" method="POST"
                     class="flex flex-col gap-2 bg-white w-full border border-gray-300 rounded-xl shadow-sm p-8">
+                    
+                    <input type="hidden" name="form-name" value="contact" />
+
                     <!-- name -->
                     <div class="flex flex-col md:flex-row gap-4">
                         <div class="flex flex-col gap-2 w-full">
