@@ -10,8 +10,6 @@ A sleek and professional personal portfolio website built using HTML, Tailwind C
 
 ![Portfolio Screenshot](./assets/preview.png)
 
----
-
 ## 🚀 Tech Stack
 
 - HTML5  
@@ -26,13 +24,9 @@ A sleek and professional personal portfolio website built using HTML, Tailwind C
 - Live project previews & resume download  
 - Built with job-readiness and performance in mind
 
----
-
 ## 🧾 License
 
 This project is open source under the [MIT License](LICENSE).
-
----
 
 ## 🤝 Connect with Me
 
@@ -40,7 +34,4 @@ This project is open source under the [MIT License](LICENSE).
 - 🐙 [GitHub](https://github.com/ReetuGupta)
 - 🌐 [Portfolio](https://reetugupta-portfolio.netlify.app/)
 
----
-
-> Crafted with ❤️ by Reetu Gupta
-
+Crafted with ❤️ by Reetu Gupta
